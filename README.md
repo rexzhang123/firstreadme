@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rexzhang123
+- 👋 Hi, I’m Rex Zhang (@rexzhang123).
 - 👀 I’m interested in fitness, hip hop, photography, and web design.
 - 🌱 I’m currently studying computer science and quantitative science at Emory University.  
 - 💞️ I’m looking to collaborate on any projects related to software engineering, web/app development, and data analytics. 
